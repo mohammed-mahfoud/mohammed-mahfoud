@@ -14,14 +14,7 @@ Passionate about building scalable, high-performance applications and solving co
 
 ## 🧩 Interests
 - Solving "greater than killer" sudoku puzzles at [dailykillersudoku.com](https://www.dailykillersudoku.com)
-- Contributing to open source and learning new paradigms
-
-## 📫 Let's Connect!
-- [LinkedIn](#) <!-- Add your LinkedIn URL if you'd like -->
-- [Twitter](#) <!-- Add your Twitter/X URL if you'd like -->
 
 ---
 
 > “Code is like a puzzle—sometimes the greatest satisfaction is finding the piece that fits perfectly.”
-
-Feel free to check out my repositories below or reach out for collaboration!
